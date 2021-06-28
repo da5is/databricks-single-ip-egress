@@ -84,7 +84,6 @@ resource natgw 'Microsoft.Network/natGateways@2021-02-01' = {
         id: aznatpip.id
       }
     ]
-
   }
 }
 
